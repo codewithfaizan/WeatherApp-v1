@@ -13,7 +13,7 @@ font-family: 'Work Sans', sans-serif; */
 }
 
 section {
-  background: url("https://img.freepik.com/free-vector/gorgeous-clouds-background-with-blue-sky-design_1017-25501.jpg?w=1060&t=st=1699626452~exp=1699627052~hmac=019bb5cbd72fd0fb4436da1c82cdee223cf85b861905567defe1b2f2af93042e");
+  background: url("./bg-img.svg");
   background-size: cover;
   position: fixed;
   z-index: -1;
